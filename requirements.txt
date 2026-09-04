@@ -1,0 +1,9 @@
+cbsodata
+duckdb
+pandas
+matplotlib
+scipy
+fastapi
+uvicorn
+pytest
+httpx
